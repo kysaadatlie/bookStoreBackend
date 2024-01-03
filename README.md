@@ -19,3 +19,5 @@ Deployed on AWS EC2, Database Amazon RDS (MySQL)
 ![image](https://github.com/kysaadatlie/bookStoreBackend/assets/94738149/dc7cf6b4-3101-4eac-942a-241d524a25e9)
 
 ![image](https://github.com/kysaadatlie/bookStoreBackend/assets/94738149/8e378ce8-64ba-48cb-9d8a-2a1261b2fdd3)
+
+p.s. when you click HOME, it redirects to the tomcat since the link to home is the same as the link to the tomcat.
